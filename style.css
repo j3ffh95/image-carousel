@@ -8,7 +8,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   font-family: "Rakkas", sans-serif;
+  background-color: lightblue;
   min-height: 100vh;
   margin: 0;
 }
